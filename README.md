@@ -36,6 +36,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 
 ### Courses, Lectures and Workshops
+- [Probabilistic Robotics - Sapienza](https://sites.google.com/dis.uniroma1.it/probabilistic-robotics/home?authuser=0) by Giorgio Grisetti (2018)
 - [SLAM Tutorial@ICRA 2016](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
 - [Geometry and Beyond - Representations, Physics, and Scene Understanding for Robotics](http://rss16-representations.mit.edu/) at Robotics: Science and Systems (2016)
 - [Robotics - UPenn](https://www.coursera.org/specializations/robotics) on Coursera by Vijay Kumar (2016)
@@ -95,6 +96,8 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 - [Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/)
 - [Jose Neira](webdiis.unizar.es/~neira/)
 - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html)
+- [Cyrill Stachniss](http://www.ipb.uni-bonn.de/people/cyrill-stachniss/)
+- [Giorgio Grisetti](https://sites.google.com/dis.uniroma1.it/grisetti)
 
 #### Australia
 - [Cesar Cadena](http://cs.adelaide.edu.au/~cesar/)
@@ -118,6 +121,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 5.  [SVO: Semi-Direct Monocular Visual Odometry](https://github.com/uzh-rpg/rpg_svo)
 6.  [G2O: General Graph Optimization](https://github.com/RainerKuemmerle/g2o)
 7.  [RGBD-SLAM](https://github.com/felixendres/rgbdslam_v2)
+8.  [ProSLAM](https://gitlab.com/srrg-software/srrg_proslam)
 
 
 ### Miscellaneous
